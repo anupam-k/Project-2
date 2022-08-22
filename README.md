@@ -4,5 +4,5 @@
 ![image](https://user-images.githubusercontent.com/91872149/181812400-a042a96e-27d8-451a-8c6b-23a933aaed23.png)
 
 
-## _Live Hosted Link_ : [Restaurant Landing Page - Project 2](https://live-class-assignment-02.netlify.app/)
+## _Live Preview Here_ : [Restaurant Landing Page - Project 2](https://live-class-assignment-02.netlify.app/)
 
